@@ -16,3 +16,6 @@ artifacts/*
 # hf caches
 .cache/
 huggingface/
+
+# Other
+requirements_local.txt
